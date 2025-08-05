@@ -34,6 +34,14 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "@batch.com/react-native-plugin",
+        {
+          "androidApiKey": "65F40D9CCDA8C8170C20DA602790B7",
+          "iosApiKey": "65F40D595972E6F6F3AC03966F2831",
+          "enableDoNotDisturb": true
+        }
       ]
     ],
     "experiments": {
